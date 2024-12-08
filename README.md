@@ -30,3 +30,6 @@ You can download and play the game using the links below:
 This project was developed by:
 - Koh Yu Sheng
 - Park Seoyoung
+
+## Poster
+![6240](https://github.com/user-attachments/assets/82e76569-607a-4651-86e2-6836000786e8)
